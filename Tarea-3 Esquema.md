@@ -67,3 +67,15 @@ Torneo ||--}o Partido : ""
     numerico KD
     numerico KAD
   }
+```
+#**Algebra Relacional**
+
+####Cuatro Operadores a usar (Quedan dudas)
+
+1.- ∏Id_Jugador, Total kills, Total Muertes(Jugador-Partido)
+
+2.- σNacionalidad = “Mexicana”(Jugador)
+
+3.- σNumero de kills>25(Jugador/Partido)
+
+3.- σID equipo x, Id equipo y, … (Equipo)
